@@ -17,3 +17,4 @@ This code was used in the following list of publications:
 
 If you plan to use this code or the datasets, please cite the corresponding article. 
 
+UPDATE May 2023: part of this code is now integrated in the POSYDON v2 development branch, see [PR 63](https://github.com/POSYDON-code/POSYDON/pull/63).
