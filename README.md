@@ -1,4 +1,4 @@
-# BBH_merging_rates
+# Binary black hole merger rates
 Compute binary black hole merger rates given a synthetic population obtained through a population synthesis model.
 
 Given some model assumptions, the code can compute the observable merging BBH population by a gravitational-wave detector as well as the intrinsic BBH population (equivalent to a gravitational-wave detector with infinite sensitivity). Additionally, this code computes the BBH detection rate and the BBH merger rate density. If long-duration gamma-ray bursts (LGRBs) are modelled, the code computes distributions and rates of LGRBs. The code can also compute rates provided a synthetic BBH population from a rectilinear MESA gird. Finally, the code also computes the stochastic gravitational-wave background of a given intrinsic merging BBH population.
